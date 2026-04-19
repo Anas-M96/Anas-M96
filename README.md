@@ -13,30 +13,20 @@ I'm proficient in:
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Power+BI;SQL+Server;Excel;SSAS;Data+Analytics+Stack" />
 
-  <br><br>
+<br><br>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/><br>
-        <b>Power BI</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="60"/><br>
-        <b>SQL Server</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/><br>
-        <b>Excel</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/96/data-configuration.png" width="60"/><br>
-        <b>SSAS</b>
-      </td>
-    </tr>
-  </table>
+<img src="https://skillicons.dev/icons?i=postgres,azure,excel&theme=light" />
+
+<br><br>
+
+<p>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="65"/>
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="65"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="65"/>
+  <img src="https://img.icons8.com/color/96/data-configuration.png" width="65"/>
+</p>
 
 </div>
 </div>
