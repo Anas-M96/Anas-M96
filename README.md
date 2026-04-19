@@ -17,7 +17,7 @@ I'm proficient in:
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,azure,excel&theme=light" />
+
 
 <br><br>
 
