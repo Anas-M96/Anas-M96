@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Power+BI;SQL+Server;Excel;SSAS;Data+Analytics+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0D1420&center=true&vCenter=true&width=700&lines=Power+BI;SQL+Server;Excel;SSAS;Data+Analytics+Stack" />
 
 <br><br>
 
