@@ -11,39 +11,32 @@ I'm proficient in:
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 
-<div align="center" style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap;">
+<div align="center">
 
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/96/power-bi.png" width="60"
-         style="transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'"/>
-    <p><b>Power BI</b></p>
-  </div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="60"
-         style="transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'"/>
-    <p><b>SQL Server</b></p>
-  </div>
+  <br><br>
 
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"
-         style="transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'"/>
-    <p><b>Excel</b></p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/96/data-configuration.png" width="60"
-         style="transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'"/>
-    <p><b>SSAS</b></p>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/><br>
+        <b>Power BI</b>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="60"/><br>
+        <b>SQL Server</b>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/><br>
+        <b>Excel</b>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/data-configuration.png" width="60"/><br>
+        <b>SSAS</b>
+      </td>
+    </tr>
+  </table>
 
 </div>
 </div>
