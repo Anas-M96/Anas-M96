@@ -12,10 +12,9 @@ I'm proficient in:
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" target="_blank">
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/data-configuration.png" width="60"/>
 </div>
-
 Let's collaborate on data-driven projects!
