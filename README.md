@@ -14,7 +14,7 @@ I'm proficient in:
 
 <div align="center">
 ![Power BI]([https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white](https://1000logos.net/microsoft-power-bi-logo/))
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white(https://1000logos.net/microsoft-power-bi-logo/)" target="_blank">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" target="_blank">
 </div>
