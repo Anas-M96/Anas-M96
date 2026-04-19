@@ -10,15 +10,4 @@ I'm proficient in:
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Power BI]([https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white](https://1000logos.net/microsoft-power-bi-logo/))
-
-<div align="center">
-![Power BI]([https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white](https://1000logos.net/microsoft-power-bi-logo/))
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white(https://1000logos.net/microsoft-power-bi-logo/)" target="_blank">
-
-  
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" target="_blank">
-</div>
-
-Let's collaborate on data-driven projects!
+V
