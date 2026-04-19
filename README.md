@@ -11,10 +11,27 @@ I'm proficient in:
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 
-<div align="center">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/data-configuration.png" width="60"/>
+<div align="center" style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap;">
+
+  <div style="text-align:center; transition:0.3s;">
+    <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
+    <p><b>Power BI</b></p>
+  </div>
+
+  <div style="text-align:center; transition:0.3s;">
+    <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="60"/>
+    <p><b>SQL Server</b></p>
+  </div>
+
+  <div style="text-align:center; transition:0.3s;">
+    <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
+    <p><b>Excel</b></p>
+  </div>
+
+  <div style="text-align:center; transition:0.3s;">
+    <img src="https://img.icons8.com/color/96/data-configuration.png" width="60"/>
+    <p><b>SSAS</b></p>
+  </div>
+
 </div>
 Let's collaborate on data-driven projects!
