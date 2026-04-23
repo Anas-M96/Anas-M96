@@ -7,10 +7,6 @@
 ### I'm a Data Analyst who loves to uncover hidden truths within data.
 
 
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-00C2FF
-)
 
 <div align="center">
 
