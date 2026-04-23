@@ -6,6 +6,8 @@
 
 ### I'm a Data Analyst who loves to uncover hidden truths within data.
 
+<hr></hr>
+
 
 
 <div align="center">
