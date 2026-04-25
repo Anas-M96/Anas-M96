@@ -1,82 +1,49 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Hi%20I'm%20Anas&fontSize=65&fontColor=F8FAFC&animation=fadeIn&fontAlignY=45"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Power+BI+Developer;I'm+a+Data+Analyst+who+loves+to+uncover+hidden+truths+within+data.;Data+Cleaning+%7C+Data+Modeling+%7C+Visualization+%7C+DAX" />
-
-<br><br>
-
-<!-- MAIN 3D IMAGE -->
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/216649433-b760d7d5-6d3c-4a1b-9c8f-2db5fc8085c7.gif"/>
-
-<br><br>
-
-<!-- TOOLS -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="75"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/240/power-bi.png" height="75"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/240/microsoft-excel-2019.png" height="75"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/240/data-configuration.png" height="75"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Anas&fontSize=65&fontColor=F2C811&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Power%20BI%20Developer&descAlignY=55&descSize=22"/>
 
 <br>
 
-<!-- GLASS SECTION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Insights...;Power+BI+%7C+SQL+Server+%7C+Excel+%7C+SSAS;Building+Interactive+Dashboards;Data+Visualization+%26+Analytics" />
+
+<br><br>
+
+<img width="85%" src="https://user-images.githubusercontent.com/74038190/212284126-77d2c2c8-3d4d-4b74-9f17-5c5c6dfd4f1a.gif"/>
+
+<br><br>
+
 <table align="center">
 <tr>
 
-<td align="center" width="260">
-
-## 🧹 Data Cleaning
-Raw data transformation  
-Handling missing values  
-Data quality improvement  
-
+<td align="center">
+<img src="https://img.icons8.com/fluency/240/power-bi-2021.png" width="90"/>
+<br>
+<h3>Power BI</h3>
 </td>
 
-<td align="center" width="260">
-
-## 🏗️ Data Modeling
-Star schema  
-Relationships  
-Fact & Dimension tables  
-
+<td align="center">
+<img src="https://img.icons8.com/color/240/microsoft-sql-server.png" width="90"/>
+<br>
+<h3>SQL Server</h3>
 </td>
 
-<td align="center" width="260">
-
-## 📊 Data Visualization
-Interactive dashboards  
-KPIs & Reports  
-Storytelling with data  
-
+<td align="center">
+<img src="https://img.icons8.com/color/240/microsoft-excel-2019.png" width="90"/>
+<br>
+<h3>Excel</h3>
 </td>
 
-<td align="center" width="260">
-
-## ⚡ DAX
-Measures & Calculations  
-Time intelligence  
-Performance optimization  
-
+<td align="center">
+<img src="https://img.icons8.com/color/240/data-configuration.png" width="90"/>
+<br>
+<h3>SSAS</h3>
 </td>
 
 </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- STATS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:111827,100:1E293B"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
