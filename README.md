@@ -22,25 +22,25 @@ I'm a Data Analyst who loves to uncover hidden truths within data.
 <tr>
 
 <td align="center" width="220">
-<img src="https://img.icons8.com/fluency/240/power-bi-2021.png" width="80"/>
+<img src="https://img.icons8.com/fluency/240/power-bi-2021.png" width="75"/>
 <br><br>
-<h3>Power BI</h3>
+<h4>Power BI</h4>
 </td>
 
 <td align="center" width="220">
-<img src="https://img.icons8.com/color/240/microsoft-sql-server.png" width="80"/>
+<img src="https://img.icons8.com/color/240/microsoft-sql-server.png" width="75"/>
 <br><br>
-<h3>SQL Server</h3>
+<h4>SQL Server</h4>
 </td>
 
 <td align="center" width="220">
-<img src="https://img.icons8.com/color/240/microsoft-excel-2019.png" width="80"/>
+<img src="https://img.icons8.com/color/240/microsoft-excel-2019.png" width="75"/>
 <br><br>
-<h3>Excel</h3>
+<h4>Excel</h4>
 </td>
 
 <td align="center" width="220">
-<img src="https://img.icons8.com/color/240/data-configuration.png" width="80"/>
+<img src="https://img.icons8.com/color/240/data-configuration.png" width="75"/>
 <br><br>
 <h4>SSAS</h4>
 </td>
