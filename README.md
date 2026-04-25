@@ -48,24 +48,6 @@ I'm a Data Analyst who loves to uncover hidden truths within data.
 </tr>
 </table>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br><br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="200">
-
-### 🧹 Data Cleaning
-
-</td>
-
-<td align="center" width="200">
-
-### 🏗️ Data Modeling
 
 </td>
 
