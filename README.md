@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Power+BI+Developer;Turning+Raw+Data+Into+Powerful+Insights;Building+Interactive+Dashboards+%26+Analytics;SQL+Server+%7C+Excel+%7C+SSAS+%7C+DAX" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Power+BI+Developer;Turning+Raw+Data+Into+Powerful+Insights;Building+Interactive+Dashboards+%26+Analytics;Power+BI+%7C+SQL+Server+%7C+Excel+%7C+SSAS" />
 
 <br><br>
 
