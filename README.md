@@ -19,7 +19,7 @@ I'm a Data Analyst who loves to uncover hidden truths within data.
 <br>
 
 <table align="center">
-<tr>
+
 
 <td align="center" width="220">
 <img src="https://img.icons8.com/fluency/240/power-bi-2021.png" width="95"/>
@@ -45,7 +45,6 @@ I'm a Data Analyst who loves to uncover hidden truths within data.
 <h3>SSAS</h3>
 </td>
 
-</tr>
 
 <br><br>
 
