@@ -21,28 +21,28 @@ I'm a Data Analyst who loves to uncover hidden truths within data.
 <table align="center">
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.icons8.com/fluency/240/power-bi-2021.png" width="80"/>
 <br><br>
 <h3>Power BI</h3>
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.icons8.com/color/240/microsoft-sql-server.png" width="80"/>
 <br><br>
 <h3>SQL Server</h3>
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 <img src="https://img.icons8.com/color/240/microsoft-excel-2019.png" width="80"/>
 <br><br>
 <h3>Excel</h3>
 </td>
 
-<td align="center" width="200">
-<img src="https://img.icons8.com/color/240/data-configuration.png" width="95"/>
+<td align="center" width="220">
+<img src="https://img.icons8.com/color/240/data-configuration.png" width="80"/>
 <br><br>
-<h3>SSAS</h3>
+<h4>SSAS</h4>
 </td>
 
 </tr>
