@@ -21,7 +21,7 @@ I'm a Data Analyst who loves to uncover hidden truths within data.
 <table align="center">
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="180">
 <img src="https://img.icons8.com/fluency/240/power-bi-2021.png" width="75"/>
 <br><br>
 <h4>Power BI</h4>
